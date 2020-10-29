@@ -10,7 +10,7 @@
     }],
     "require": {
         "php": ">=5.5",
-        "dts/ebay-sdk-php": "dev-master"
+        "dts/ebay-sdk-php": "dev-fix"
     },
     "license": "MIT",
     "authors": [
